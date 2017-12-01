@@ -1,8 +1,8 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "4.0.0-beta.2",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "title": "Design Solutions",
+    "name": "designSolutions",
+    "version": "0.0.1",
+    "description": "Simple static website for Design Solutions. Template by David Miller from startbootstrap",
     "keywords": [
         "css",
         "sass",
@@ -13,17 +13,17 @@
     ],
     "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/visitDesignSolutionsDevelopers/designSolutions",
+        "email": "danny@stylettodesign.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Daniel Alegria",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/visitDesignSolutionsDevelopers/designSolutions"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta.2",
